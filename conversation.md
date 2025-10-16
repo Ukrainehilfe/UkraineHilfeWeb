@@ -1,0 +1,1 @@
+User möchte, dass alle Bilder fest im Replit-Projekt enthalten sind. Ich werde sie in den Projektordner laden und die HTML-Links entsprechend anpassen.
